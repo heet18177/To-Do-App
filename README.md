@@ -6,7 +6,7 @@ A simple PHP-based to-do list application featuring user registration, login, ta
 
 - PHP (server-side scripting)
 - MySQL (or another relational database)
-- HTML/CSS (front-end, embedded in PHP)
+- HTML/Tailwind css (front-end, embedded in PHP)
 
 ## Features
 
@@ -19,5 +19,6 @@ A simple PHP-based to-do list application featuring user registration, login, ta
 1. Clone the repository:
    ```bash
    git clone https://github.com/heet18177/To-Do-App.git
+
 
 
